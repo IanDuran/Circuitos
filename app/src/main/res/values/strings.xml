@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Circuitos</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="title">Proyecto Circuitos</string>
+    <string name="start">Iniciar</string>
+    <string name="not_connected">No hay conexion a internet</string>
+    <string name="turn_all_on">Encender todas</string>
+    <string name="turn_all_off">Apagar todas</string>
+    <string name="executed">Ejecutado</string>
+    <string name="first_light">Luz 1</string>
+    <string name="second_light">Luz 2</string>
+    <string name="third_light">Luz 3</string>
+    <string name="fourth_light">Luz 4</string>
+</resources>
